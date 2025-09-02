@@ -1,2 +1,0 @@
-# asteroids
-Asteroids game for the boot.dev course.
